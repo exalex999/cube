@@ -13,7 +13,7 @@ USAGE:
   2) in main.asm file define the const ifname determining the path to config.txt
   3) execute the program using MARS MIPS simulator
   4) enter a path for output image
-2. x86-x64 version;
+2. x86/x86-x64 version;
   1) execute program
   2) move the cube using A,F,S,W,D,E keys;
   3) rotate the cube using H,L,J,U,K,I keys.
